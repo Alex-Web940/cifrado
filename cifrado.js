@@ -19,3 +19,5 @@ for (let i = 0; i < texto.length; i++) {
 
 console.log("\nTexto original:", texto);
 console.log("Texto cifrado:", resultado);
+
+console.log(".");
